@@ -1,3 +1,3 @@
 # Участники
 
-- [Alex Sokol (@y9san9)](members/y9san9.md)
+- [Alex Sokol (@y9san9)](y9san9.md)
