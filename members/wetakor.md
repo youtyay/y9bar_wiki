@@ -1,1 +1,3 @@
-Telegram: t.me/wetakor
+# wetakor
+
+Telegram: [@wetakor](https://t.me/wetakor)
